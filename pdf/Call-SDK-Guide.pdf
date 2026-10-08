@@ -185,7 +185,7 @@ endobj
 35 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../LICENSE)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/blob/main/LICENSE)
 >> /Border [ 0 0 0 ] /Rect [ 297.5367 658.02 347.5055 670.5 ] /Subtype /Link /Type /Annot
 >>
 endobj
@@ -237,7 +237,7 @@ endobj
 41 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../examples/UseCall.cs)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/blob/main/examples/UseCall.cs)
 >> /Border [ 0 0 0 ] /Rect [ 87.8 359.02 130.1059 371.5 ] /Subtype /Link /Type /Annot
 >>
 endobj
@@ -314,28 +314,28 @@ endobj
 49 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../dist/5.1.100)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/tree/main/dist/5.1.100)
 >> /Border [ 0 0 0 ] /Rect [ 213.2 691.875 257.3562 703.875 ] /Subtype /Link /Type /Annot
 >>
 endobj
 50 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../dist/5.2.100)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/tree/main/dist/5.2.100)
 >> /Border [ 0 0 0 ] /Rect [ 213.2 665.875 257.3562 677.875 ] /Subtype /Link /Type /Annot
 >>
 endobj
 51 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../docs/INSTALL.md)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/blob/main/docs/INSTALL.md)
 >> /Border [ 0 0 0 ] /Rect [ 84.30625 614.02 127.3484 626.5 ] /Subtype /Link /Type /Annot
 >>
 endobj
 52 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../docs/RELEASE-STATUS.md)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/blob/main/docs/RELEASE-STATUS.md)
 >> /Border [ 0 0 0 ] /Rect [ 71.47891 279.02 129.9637 291.5 ] /Subtype /Link /Type /Annot
 >>
 endobj
@@ -352,35 +352,35 @@ endobj
 54 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../examples/UseCall.cs)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/blob/main/examples/UseCall.cs)
 >> /Border [ 0 0 0 ] /Rect [ 59.53516 639.52 120.3914 652 ] /Subtype /Link /Type /Annot
 >>
 endobj
 55 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../docs/INSTALL.md)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/blob/main/docs/INSTALL.md)
 >> /Border [ 0 0 0 ] /Rect [ 59.53516 618.02 132.4621 630.5 ] /Subtype /Link /Type /Annot
 >>
 endobj
 56 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../docs/AI.md)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/blob/main/docs/AI.md)
 >> /Border [ 0 0 0 ] /Rect [ 59.53516 596.52 143.0906 609 ] /Subtype /Link /Type /Annot
 >>
 endobj
 57 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../dist/README.md)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/blob/main/dist/README.md)
 >> /Border [ 0 0 0 ] /Rect [ 59.53516 575.02 134.4375 587.5 ] /Subtype /Link /Type /Annot
 >>
 endobj
 58 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (../docs/RELEASE-STATUS.md)
+/S /URI /Type /Action /URI (https://github.com/KLincecum/Call/blob/main/docs/RELEASE-STATUS.md)
 >> /Border [ 0 0 0 ] /Rect [ 59.53516 553.52 120.041 566 ] /Subtype /Link /Type /Annot
 >>
 endobj
@@ -799,7 +799,7 @@ endobj
 endobj
 74 0 obj
 <<
-/Author (Kevin P. Lincecum) /CreationDate (D:20261008103218-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008103218-05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Kevin P. Lincecum) /CreationDate (D:20261008143343-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008143343-05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (SDK guide) /Trapped /False
 >>
 endobj
@@ -1039,82 +1039,82 @@ xref
 0000004326 00000 n 
 0000004461 00000 n 
 0000004879 00000 n 
-0000005037 00000 n 
-0000005252 00000 n 
-0000005448 00000 n 
-0000005644 00000 n 
-0000005786 00000 n 
-0000006001 00000 n 
-0000006167 00000 n 
-0000006382 00000 n 
-0000006578 00000 n 
-0000006775 00000 n 
-0000006972 00000 n 
-0000007169 00000 n 
-0000007366 00000 n 
-0000007563 00000 n 
-0000007726 00000 n 
-0000007889 00000 n 
-0000008055 00000 n 
-0000008228 00000 n 
-0000008465 00000 n 
-0000008633 00000 n 
-0000008799 00000 n 
-0000008958 00000 n 
-0000009123 00000 n 
-0000009293 00000 n 
-0000009537 00000 n 
-0000009734 00000 n 
-0000010483 00000 n 
-0000034855 00000 n 
-0000035112 00000 n 
-0000036239 00000 n 
-0000036982 00000 n 
-0000065451 00000 n 
-0000065694 00000 n 
-0000066830 00000 n 
-0000067574 00000 n 
-0000087306 00000 n 
-0000087562 00000 n 
-0000088925 00000 n 
-0000089012 00000 n 
-0000089293 00000 n 
-0000089368 00000 n 
-0000089470 00000 n 
-0000089586 00000 n 
-0000089705 00000 n 
-0000089823 00000 n 
-0000089949 00000 n 
-0000090079 00000 n 
-0000090193 00000 n 
-0000090304 00000 n 
-0000090426 00000 n 
-0000090545 00000 n 
-0000090673 00000 n 
-0000090802 00000 n 
-0000090920 00000 n 
-0000091048 00000 n 
-0000091152 00000 n 
-0000091321 00000 n 
-0000092955 00000 n 
-0000093946 00000 n 
-0000095955 00000 n 
-0000097642 00000 n 
-0000100043 00000 n 
-0000101929 00000 n 
-0000104290 00000 n 
-0000106429 00000 n 
-0000108471 00000 n 
-0000110479 00000 n 
-0000112746 00000 n 
-0000114344 00000 n 
-0000116566 00000 n 
-0000118839 00000 n 
-0000119746 00000 n 
+0000005078 00000 n 
+0000005293 00000 n 
+0000005489 00000 n 
+0000005685 00000 n 
+0000005827 00000 n 
+0000006042 00000 n 
+0000006249 00000 n 
+0000006464 00000 n 
+0000006660 00000 n 
+0000006857 00000 n 
+0000007054 00000 n 
+0000007251 00000 n 
+0000007448 00000 n 
+0000007645 00000 n 
+0000007849 00000 n 
+0000008053 00000 n 
+0000008260 00000 n 
+0000008474 00000 n 
+0000008711 00000 n 
+0000008920 00000 n 
+0000009127 00000 n 
+0000009327 00000 n 
+0000009533 00000 n 
+0000009744 00000 n 
+0000009988 00000 n 
+0000010185 00000 n 
+0000010934 00000 n 
+0000035306 00000 n 
+0000035563 00000 n 
+0000036690 00000 n 
+0000037433 00000 n 
+0000065902 00000 n 
+0000066145 00000 n 
+0000067281 00000 n 
+0000068025 00000 n 
+0000087757 00000 n 
+0000088013 00000 n 
+0000089376 00000 n 
+0000089463 00000 n 
+0000089744 00000 n 
+0000089819 00000 n 
+0000089921 00000 n 
+0000090037 00000 n 
+0000090156 00000 n 
+0000090274 00000 n 
+0000090400 00000 n 
+0000090530 00000 n 
+0000090644 00000 n 
+0000090755 00000 n 
+0000090877 00000 n 
+0000090996 00000 n 
+0000091124 00000 n 
+0000091253 00000 n 
+0000091371 00000 n 
+0000091499 00000 n 
+0000091603 00000 n 
+0000091772 00000 n 
+0000093406 00000 n 
+0000094397 00000 n 
+0000096406 00000 n 
+0000098093 00000 n 
+0000100494 00000 n 
+0000102380 00000 n 
+0000104741 00000 n 
+0000106880 00000 n 
+0000108922 00000 n 
+0000110930 00000 n 
+0000113197 00000 n 
+0000114795 00000 n 
+0000117017 00000 n 
+0000119290 00000 n 
+0000120197 00000 n 
 trailer
 <<
 /ID 
-[<2bd4d79ee6807dd0c446268d9297c10e><2bd4d79ee6807dd0c446268d9297c10e>]
+[<4b4bbeff7a1b6e82c1092840e05e142c><4b4bbeff7a1b6e82c1092840e05e142c>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 74 0 R
@@ -1122,5 +1122,5 @@ trailer
 /Size 108
 >>
 startxref
-121048
+121499
 %%EOF
