@@ -1,0 +1,23 @@
+{
+  "product": "Call",
+  "contract": 1,
+  "copyright": "Copyright (c) 2026 Kevin P. Lincecum",
+  "license": "MIT",
+  "installationTemplate": false,
+  "installationDefaults": {
+    "company": "CALLDEMO",
+    "owner": "KLINCECUM"
+  },
+  "licenseFiles": {
+    "LICENSE": "b874f5a4c818371c2a100bebc1876d2b5162ad0f9bbdab97e7c96dc4e284f3fa",
+    "NOTICE.md": "5f9a47091eee76893fd9eae380e426e110e3862c884e8974b0c4275e9e52595f"
+  },
+  "targetEpicorPackageVersion": "5.2.100",
+  "lane": "5.2.100",
+  "files": {
+    "CallLib.efxj": "992e43003c43dfb995cfa78bb73e8082ae7e0728b1095aa7d465c225de93e4bb",
+    "CallUBAQ.baq": "ee8391d446297ca44bdec1b5a68d10800fe20597d1c36084c184e4e5c95ae6fd"
+  },
+  "verification": "Local checks for both lanes; isolated 5.2.100 native import, compilation and REST dispatch passed",
+  "installationGuide": "../../docs/INSTALL.md"
+}

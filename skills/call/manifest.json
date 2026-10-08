@@ -1,0 +1,20 @@
+{
+  "product": "Call",
+  "skill": "call",
+  "edition": "2026-10-08",
+  "methodsContract": 1,
+  "packageLanes": [
+    "5.1.100",
+    "5.2.100"
+  ],
+  "copyright": "Copyright (c) 2026 Kevin P. Lincecum",
+  "license": "MIT",
+  "files": {
+    "SKILL.md": "22a0e2fdf86daf9daa7ce99d32597e5d0fe67ed7ab96ba17eb6e77b232bc4fc8",
+    "agents/openai.yaml": "b6146b95df06e71285a22755a50f9c6c35dfc8b6749f3e0ff62197057ba8e70b",
+    "references/integration.md": "d842513f7e6b823e7b6263de9a16f59bbb21b5306e43a6f7386937d432eeeb43",
+    "references/installation.md": "a6822eb615118999719e83674985310240faca5992f3f13ae28c91d081737f89",
+    "assets/UseCall.cs": "5e82148fdf6f27a271d8d4dd0ab64fa2679895c81c0dc763c2630da04fe0e3fe",
+    "LICENSE": "b874f5a4c818371c2a100bebc1876d2b5162ad0f9bbdab97e7c96dc4e284f3fa"
+  }
+}
