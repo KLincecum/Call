@@ -53,7 +53,7 @@ The skill does not install Call into Epicor or grant execution permission.
 
 ## Compatibility
 
-The methods contract is version 1. The maintained native package lanes are 5.1.100 and 5.2.100.
+The methods contract is version 1. The maintained native package lanes are 4.3.200, 5.1.100, and 5.2.100.
 
 Select packages from the verified destination version. Installing this skill does not establish native compatibility or deployment state.
 

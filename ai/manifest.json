@@ -1,8 +1,8 @@
 {
-  "edition": "2026-10-08",
+  "edition": "2026-10-10",
   "files": {
-    "Call-skill.zip": "ef2faaea970244493828f471deb529d93369de439d529e56587b383bc8bcdbff",
-    "Call-AI-Kit.zip": "821d55b2f71b45ab77c28a26c2cd338958ac42efbc59d02d612320988f8c8b80"
+    "Call-skill.zip": "67cfe2f71c15397be5936af9d00b84b71f038fb4b2eeb1227e407a24c401149b",
+    "Call-AI-Kit.zip": "a4f9c7fee3bd3c255d3f26b603159705e007271339426242402ec386cdaa030c"
   },
   "skillFiles": 7,
   "kitFiles": 11

@@ -1,12 +1,12 @@
 {
   "Call-Press-Release.pdf": {
-    "sha256": "c325027038bbdafe26a1f63ecd7e5070c26c12bc3280ad38e246a346c0373a0d",
+    "sha256": "ecc081b0e470f4c32b903b75958fe75dbe9ead80ce7efe5b5cc460dff9daa9a0",
     "markdown": "posts/03-Call-Press-Release.md",
-    "markdownSha256": "09695475a36eda5764f951c981cf2a08c8226c4ffd66b35a3384b9dc7fbc147a"
+    "markdownSha256": "77b01e62985be5fe5876910a5dc190c512806a30170273e537b79c55638508b9"
   },
   "Call-SDK-Guide.pdf": {
-    "sha256": "0c9f6c594fe996893b950681a03cf3d3e8da6e33d2bd194fe5c62a54f14cdd0d",
+    "sha256": "8e0342f83beea4db683dbea9c0b61c2245546881d6b2c4a560cc246622560d5c",
     "markdown": "docs/SDK.md",
-    "markdownSha256": "c38b68a7e8301003b7f570bfffd81494f1974342d5c4108dab2b9e68ba47b7a4"
+    "markdownSha256": "b37a2e5822526c678177a84898e72bbf384a272a2a7a39812716d02ae4544614"
   }
 }

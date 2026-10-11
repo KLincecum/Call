@@ -18,6 +18,11 @@
     "CallLib.efxj": "70d9bab7a788ec6d8cbec690b94ec1f41330caa53fa3376c0bc50eed25b79c11",
     "CallUBAQ.baq": "4723e90b4b5c4416c9718f1ad068293a625982604a6ff0ee5315691ef2bfac46"
   },
-  "verification": "Local checks for both lanes; isolated 5.2.100 native import, compilation and REST dispatch passed",
+  "nativeQualification": {
+    "qualified": false,
+    "scope": "No matching native qualification receipt supplied for this package pair."
+  },
+  "releaseQualified": false,
+  "verification": "Assembly checks: package hashes, portable contents and links. Native evidence is reported separately.",
   "installationGuide": "../../docs/INSTALL.md"
 }

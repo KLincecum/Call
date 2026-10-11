@@ -4,7 +4,7 @@ A modern take on Epicor dynamic dispatch.
 
 Based on FunctionRunner.
 
-Document date: 2026-10-08. Methods contract: 1.
+Document date: 2026-10-10. Methods contract: 1.
 
 Copyright (c) 2026 Kevin P. Lincecum. Licensed under the [MIT License](../LICENSE).
 
@@ -455,6 +455,7 @@ Use both packages from the same version directory. Retain the corresponding mani
 
 | Epicor/ICE package version | Package directory |
 |---|---|
+| 4.3.200 | [dist/4.3.200](../dist/4.3.200/) |
 | 5.1.100 | [dist/5.1.100](../dist/5.1.100/) |
 | 5.2.100 | [dist/5.2.100](../dist/5.2.100/) |
 
@@ -470,7 +471,7 @@ Call uses DynamicQuery for metadata and dispatch. It does not call the EFX busin
 
 ## 13. Verification status
 
-Local checks cover both package lanes for source inclusion, package structure, stable hashes, and simulated behavior.
+Local checks cover all three package lanes for source inclusion, package structure, stable hashes, and simulated behavior.
 
 An isolated 5.2.100 native test verified dummy-company import, company reassignment, ownership, company mapping, directive compilation, and successful REST dispatch.
 
@@ -505,3 +506,7 @@ Use owned synthetic targets for acceptance tests. Do not repeat a business opera
 - [Release status](RELEASE-STATUS.md)
 
 Call Workbench documentation is outside this guide's scope.
+
+## 2024.2 port
+
+The 4.3.200 lane uses the same maintained source. It passed 61 local checks, 21 native server test groups and four REST cases, with native tests repeated after restart. See [2024 qualification](VERSION-2024.md) for the installation requirements and exact-package evidence boundary.

@@ -19,7 +19,7 @@ Call is the product. CallLib is its Function library. CallUBAQ is the required d
 - [Press release](posts/03-Call-Press-Release.md) and its PDF in pdf/Call-Press-Release.pdf.
 - [AI integration guide](docs/AI.md) and [AI kit instructions](docs/AI-RELEASE.md).
 - Portable AI archives in ai/ and an unpacked skill in skills/call/.
-- Matching native package pairs in dist/5.1.100/ and dist/5.2.100/.
+- Matching native package pairs in dist/4.3.200/, dist/5.1.100/, and dist/5.2.100/.
 - [Release status](docs/RELEASE-STATUS.md), [MIT license](LICENSE), and [notices](NOTICE.md).
 - SHA-256 hashes in manifest.json for every distributed file except that manifest itself.
 
@@ -30,3 +30,5 @@ The packages use sample company CALLDEMO and owner KLINCECUM. Configure company 
 Call Workbench is a separate product and is not included.
 
 Copyright (c) 2026 Kevin P. Lincecum. Copyright belongs solely to Kevin P. Lincecum.
+
+The [2024.2 port](docs/VERSION-2024.md) is included in the 4.3.200 lane.

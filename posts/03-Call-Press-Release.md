@@ -5,7 +5,7 @@
 
 *A modern take on Epicor dynamic dispatch. Based on FunctionRunner.*
 
-**October 8, 2026** — I built **Call** because I had a library name, a function name, and some arguments, and I foolishly believed that ought to be enough to call a function.
+**October 8, 2026; updated October 10, 2026** — I built **Call** because I had a library name, a function name, and some arguments, and I foolishly believed that ought to be enough to call a function.
 
 Apparently, I had brought common sense to a framework discussion.
 
@@ -43,7 +43,7 @@ If Call cannot establish the outcome, it reports **Unknown**. It does not conver
 
 REST consumers using Return mode must still check `oSuccess`. HTTP 200 means you received a response. It does not mean the business operation succeeded, your data is correct, or your implementation deserves a commemorative plaque.
 
-Installation uses a matching **CallLib + CallUBAQ** package pair for your Epicor/ICE package version. Packages are provided for **5.1.100** and **5.2.100**, along with the SDK guide, a consumer helper, installation guidance, and an AI integration kit.
+Installation uses a matching **CallLib + CallUBAQ** package pair for your Epicor/ICE package version. Packages are provided for **4.3.200**, **5.1.100**, and **5.2.100**, along with the SDK guide, a consumer helper, installation guidance, and an AI integration kit.
 
 Pick the version that matches your environment. "I downloaded the bigger number" is not a compatibility assessment, despite its impressive adoption rate.
 

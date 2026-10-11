@@ -4,7 +4,7 @@ Copyright (c) 2026 Kevin P. Lincecum. MIT License.
 
 ## Select the package pair
 
-Use CallLib.efxj and CallUBAQ.baq from the same version folder. Match the destination's native Epicor/ICE package version: 5.1.100 or 5.2.100.
+Use CallLib.efxj and CallUBAQ.baq from the same version folder. Match the destination's native Epicor/ICE package version: 4.3.200, 5.1.100, or 5.2.100.
 
 These numbers are package versions, not marketing release names. Keep the manifest and legal files with each pair.
 
@@ -45,6 +45,8 @@ The BAQ directive required compilation after import. Check its enabled and curre
 
 Do not accept a successful BAQ import message as proof that the directive exists. Check the directive and execute a harmless known target.
 
+The readback must include the actual query definition and diagram payload, not only the BPM directive. Check the query identity/company, updatable settings, result schema, diagram-row linkage and GetList business-object binding. Check that the workflow still connects its custom code to the start node with the expected execution settings. Native row IDs, revision stamps, diagram layout and locally selected ownership/security settings can legitimately differ from the supplied package.
+
 ## Check the consumer route
 
 1. Add a native reference to CallLib in a server consumer library.
@@ -66,8 +68,14 @@ The test did not replace the existing Call installation. It did not establish or
 
 The 5.1.100 lane shares the corrected packaging logic and local checks. This test did not repeat native import on a 5.1.100 server.
 
+Newly assembled distributions report native qualification separately for each exact package pair. Without a matching reviewed receipt, that status is unqualified. This means no receipt covering those bytes was supplied; it does not erase historical evidence or assert that the package failed a native test. A bounded import/compilation/REST receipt is separate from broad release and intended-caller acceptance.
+
 ## Later updates
 
 Export the installed pair first. Import the matching replacement pair, check ownership and security, compile, and check the consumer route.
 
 Keep the full MIT license and Kevin P. Lincecum's copyright with redistributed copies.
+
+## 2024.2 lane
+
+The 4.3.200 port has separate [native qualification and host requirements](VERSION-2024.md). Check advanced BAQ and BPM maintenance rights for the deployment account before native compilation.

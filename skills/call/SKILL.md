@@ -74,7 +74,7 @@ The integration reference explains these rules with complete examples and correc
 
 Select a lane explicitly from the verified destination version. Keep CallLib and CallUBAQ from the same lane with their manifest and legal files.
 
-The maintained lanes are 5.1.100 and 5.2.100. These are native package versions, not inferred marketing releases.
+The maintained lanes are 4.3.200, 5.1.100, and 5.2.100. These are native package versions, not inferred marketing releases.
 
 Do not convert historical test results into current deployment claims. Use the installation reference to distinguish evidence types.
 
